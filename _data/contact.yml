@@ -5,14 +5,14 @@
 
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  ''                  # Fill with your Linkedin homepage
+  url:  'https://www.linkedin.com/in/isaac-guevaram'                  # Fill with your Linkedin homepage
 
 - type: twitter
   icon: "fab fa-twitter"
 
 - type: instagram
   icon: 'fab fa-instagram'   # icons powered by <https://fontawesome.com/>
-  url:  ''                  # Fill with your Linkedin homepage
+  url:  'https://www.instagram.com/yishaq_guevara'                  # Fill with your Linkedin homepage
 
 - type: email
   icon: "fas fa-envelope"
