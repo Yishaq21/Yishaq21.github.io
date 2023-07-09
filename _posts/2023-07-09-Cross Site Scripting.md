@@ -5,7 +5,7 @@ categories: [Certifications, eCPPTv2]
 tags: [Linux, Windows, Pivoting, BufferOverflow]
 ---
 
-![](/assets/img/eCPPTv2/eCPPTv2.png)
+
 
 ---
 
