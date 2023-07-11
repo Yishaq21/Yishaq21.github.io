@@ -22,4 +22,4 @@ Feel free to explore my Blog and I hope it helps you a lot as it has helped me, 
 
 ### Thank you for reading! 😅👋
 
-Translated with www.DeepL.com/Translator (free version)
+
