@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-
-
 Self-taught student with a passion for Cybersecurity and Technology 💻
 
 
