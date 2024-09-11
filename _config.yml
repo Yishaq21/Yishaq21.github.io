@@ -18,24 +18,22 @@ timezone: America/Bahia
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jean Oliveira # the main title
+title: Yishaq | Cybersecurity # the main title
 
-tagline: Brazilian evolutionary geneticist # it will display as the sub-title
+tagline: Note about Cybersecurity and other things  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  I am interested in evolutionary biology, applying biogeographic and genomics tools to explore the diversification proccess of birds.
+  I am interested in Cybersecurity, in this post I writing notes about things Technology and like that.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://yishaq21.github.io"
 
 github:
-  username: itsevolution # change to your github username
+  username: Yishaq21 # change to your github username
 
-researchgate:
-  username: Jean-Oliveira-3
 
 linkedin:
-  username: itsevolution
+  username: Isaac Guevara 
 
 twitch:
   username: itsevolution
@@ -46,8 +44,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Jean Oliveira
-  email: pedrosojco@gmail.com # change to your email address
+  name: Isaac Guevara
+  email: isaaceduardog@hotmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/itsevolution # change to your github homepage
