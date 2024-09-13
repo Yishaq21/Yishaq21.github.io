@@ -33,7 +33,7 @@ github:
 
 
 linkedin:
-  username: Isaac Guevara 
+  username: Isaac Guevara Mora
 
 twitch:
   username: itsevolution
@@ -49,9 +49,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/Yishaq21 # change to your github homepage
-    - https://www.linkedin.com/in/itsevolution
-    - https://twitch.tv/itsevolution
-    - https://twitter.com/itsevolution_
+    - https://www.linkedin.com/in/isaac-guevaram
+    - https://twitch.tv/yiishak
     
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
