@@ -35,12 +35,6 @@ github:
 linkedin:
   username: Isaac Guevara Mora
 
-#twitch:
-#  username: itsevolution
-
-#twitter:
-#  username: itsevolution_
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -49,11 +43,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/Yishaq21 # change to your github homepage
-    - https://www.linkedin.com/in/isaac-guevaram
     - https://twitch.tv/yiishak
-    
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/isaac-guevaram
 
 google_site_verification: # fill in to your verification string
 
