@@ -35,11 +35,11 @@ github:
 linkedin:
   username: Isaac Guevara Mora
 
-twitch:
-  username: itsevolution
+#twitch:
+#  username: itsevolution
 
-twitter:
-  username: itsevolution_
+#twitter:
+#  username: itsevolution_
 
 social:
   # Change to your full name.
@@ -88,7 +88,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/img/profile.jpg'
+avatar: 'assets/img/Transformers.jpeg'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
