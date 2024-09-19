@@ -20,10 +20,10 @@ timezone: America/Bahia
 
 title: Yishaq | Cybersecurity # the main title
 
-tagline: Note about Cybersecurity and other things  # it will display as the sub-title
+tagline: I am interested in Cybersecurity, in this post I writing notes about things Technology and like that, and english.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  I am interested in Cybersecurity, in this post I writing notes about things Technology and like that.
+  Note about Cybersecurity and other things
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://yishaq21.github.io"
