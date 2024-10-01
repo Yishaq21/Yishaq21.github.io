@@ -6,4 +6,4 @@ tags: [qrishing, qr, phising, tutorial]    
 author: Yishaq
 ---
 
-![[Pasted image 20240926191126.png]]
+
